@@ -22,10 +22,11 @@
 4. 打开浏览器，访问 http://localhost:8501 就能用了！
 
 ## 部署到公网
-你可以直接部署到Streamlit Cloud，评委点一下链接就能用：
+你可以直接部署到Streamlit Cloud
 1. 把代码传到GitHub
 2. 打开 https://share.streamlit.io/
 3. 关联你的GitHub仓库，选择app.py，一键部署！
+4. 访问 https://hwhss-library-ai-assistant-app-ui26mv.streamlit.app/
 
 ## 项目结构
 ```
